@@ -1,0 +1,25 @@
+REM This script will Open a number of browser windows that will have Rickroll
+
+REM Open a browser x 3
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 500
+ENTER
+
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 500
+ENTER
+
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 500
+ENTER
